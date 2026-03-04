@@ -1,0 +1,4 @@
+## number conversions ##
+
+.int64 : convert to int64
+    ANY     →  int64($expr$)
